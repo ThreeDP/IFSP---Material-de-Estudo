@@ -112,7 +112,8 @@ e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode
 
 9. O que são os homônimos e sinônimos e por que devem ser evitados no projeto de bancos de dados?
 
-> 
+> Os homônimos são palavras de pronúncia similar ou de ortografia idêntica, mas com significados diferentes, um exemplo seria leve (do verbo levar) e leve (significando "de pouco peso"), em banco de dados homônimos indica utilização do mesmo nome para atributos diferentes como CNAME que pode ser usado tanto para idetificar o nome de um cliente como o de um fornecedor porem em tabelas diferentes.
+Ja sinônimos é o oposto de homônimo e indica a utilização de nomes diferentes para descrever o mesmo atributo como por exemplo carro e automóvel. Tanto Homônimos quanto Sinônimos pode gerar confusões como referencia a atributos não relacionados ao processo ou ação do usuario ou a duplicação de dados dentro do banco de dados.
 
 **problemas:**
     
