@@ -82,22 +82,38 @@ muitos para muitos (M, N) e um para um (1:1).
     
 24. Apresente as regras de negócio que representam o DER apresentado na Figura P2.6. (Observe que o DER reflete alguns pressupostos de simplificação. Por exemplo, cada livro é escrito por apenas um autor. Além disso, lebre-se de que o DER é sempre lido do lado "1" para o lado "M", independente da orientação de seus componentes.)
     
-    
 ![Figura P2.6: DER pé de galinha
 para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/Untitled%20Diagram.png)
+    
+*Resposta 24.*
+
+    1. Uma editora pode publicar um ou varios livros, Um livro poderá ter somente uma editora.
+    2. Um autor pode escrever um ou muitos livros, Um livro só pode ser escrito por um autor.
+    3. Um autor pode assinar um ou muitos contratos de publicação, Um contrato só pode ser assinado por um autor.
+    4. Uma editora pode gerenciar um ou muitos contratos, Um contrato so pode ser gerenciado por uma editora.
     
 25. Crie um DER pé de galinha para cada uma das seguintes descrições. (Observação: A palavra vários significa simplesmente "mais de um" no ambiente de modelagem de bancos de dados.)
     
 a. Cada divisão da meaCo Corporation é composta de vários departamentos. Cada departamento possui vários funcionários atribuídos a ele, mas cada funcionário trabalha em apenas um departamento. Cada departamento é gerenciado por um funcionário trabalha em apenas um departamento. Cada departamento é gerenciado por um funcionário e cada um desses gerentes pode gerenciar apenas um departamento ao mesmo tempo.
+
+*Resposta a.*
     
 b. Durante determinado período de tempo, um cliente pode alugar várias fitas de vídeo da locadora BigVid. Cada fita de vídeo da BigVid pode ser alugada a vários clientes nesse período.
-    
+
+*Resposta b.*
+
 c. Um avião de linhas aéreas pode ser encarregado de vários voos, mas cada voo é feito por apenas um avião.
-    
+
+*Resposta c.*
+
 d. A KwikTite Corporation opera várias fábricas. Cada fábrica localiza-se em uma única região. Cada região pode "abrigar" várias fábricas da KwikTite. Cada fábrica emprega muitos funcionários , mas cada um desses funcionários é empregado de apenas um fábrica.
-    
+
+*Resposta d.*
+
 e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode ser obtido por vários funcionários.
-    
+
+*Resposta e.*
+
 # Capitulo 03
     
 **Questões:**
