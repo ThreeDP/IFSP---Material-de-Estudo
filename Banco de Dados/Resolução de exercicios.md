@@ -74,6 +74,7 @@ ________________________________________________________________________________
     
 14. O que é um relacionamento e quais são seus três tipos?
 
+
 > Os relacionamentos descrevem associações entre dados. A maioria deles trata de relações entre duas entidades. Quando os componentes básicos dos modelos de dados foram apresentados, destacaram-se três tipos de relacionamentos entre dados: uma para muitos (1,M),
 muitos para muitos (M, N) e um para um (1:1).
     
