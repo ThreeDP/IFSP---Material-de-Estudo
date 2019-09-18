@@ -125,9 +125,7 @@ Ja sinônimos é o oposto de homônimo e indica a utilização de nomes diferent
 ![Tabela exercicio 8 Resolvido: ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/TABELA%20CAP03%20EX08%20RESOLVIDO.png)
 
 16. Crie o diagrama relacional para mostrar o relacionameto entre funcionários, loja e região.
-    
-    Utilize o banco de dados apresentado na Figura P3.3 para desenvolver os Problemas 17-22.
-        
-![P3.3 Tabela de banco de dados: ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/P3.3.jpg)        
+*Resposta 16.*     
+![Diagrama relacional problema 16 ](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/Diagrama%20relacional%20CAP03%20EX16.png)        
     
     
