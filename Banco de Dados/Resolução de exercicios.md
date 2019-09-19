@@ -105,7 +105,7 @@ b. Durante determinado período de tempo, um cliente pode alugar várias fitas d
 *Resposta b.*
 
 ![Figura P2.6: DER pé de galinha
-para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Banco%20de%20Dados/Untitled%20Diagram.png)
+para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/CAP%2002%20EX25B.png)
 
 c. Um avião de linhas aéreas pode ser encarregado de vários voos, mas cada voo é feito por apenas um avião.
 
