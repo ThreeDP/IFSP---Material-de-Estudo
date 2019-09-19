@@ -111,6 +111,10 @@ c. Um avião de linhas aéreas pode ser encarregado de vários voos, mas cada vo
 
 *Resposta c.*
 
+![Figura P2.6: DER pé de galinha
+para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/CAP%2002%20EX25C.png)
+
+
 d. A KwikTite Corporation opera várias fábricas. Cada fábrica localiza-se em uma única região. Cada região pode "abrigar" várias fábricas da KwikTite. Cada fábrica emprega muitos funcionários , mas cada um desses funcionários é empregado de apenas um fábrica.
 
 *Resposta d.*
