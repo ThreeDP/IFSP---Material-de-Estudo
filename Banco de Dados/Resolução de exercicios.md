@@ -123,6 +123,9 @@ e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode
 
 *Resposta e.*
 
+![Figura P2.6: DER pé de galinha
+para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/CAP%2002%20EX25E.png)
+
 # Capitulo 03
     
 **Questões:**
