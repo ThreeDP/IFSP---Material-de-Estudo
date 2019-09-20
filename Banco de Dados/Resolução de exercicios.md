@@ -119,6 +119,9 @@ d. A KwikTite Corporation opera várias fábricas. Cada fábrica localiza-se em 
 
 *Resposta d.*
 
+![Figura P2.6: DER pé de galinha
+para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/CAP02%20EX24D.png)
+
 e. Um funcionário pode obter vários graus de ensino e cada grau de ensino pode ser obtido por vários funcionários.
 
 *Resposta e.*
