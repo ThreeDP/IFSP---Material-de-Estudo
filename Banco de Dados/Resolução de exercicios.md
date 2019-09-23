@@ -98,7 +98,8 @@ a. Cada divisão da meaCo Corporation é composta de vários departamentos. Cada
 
 *Resposta a.*
 
-> 
+![Figura P2.6: DER pé de galinha
+para o Problema 24](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/Trabalho-v1.0.1/Banco%20de%20Dados/CAP%2002%20EX25A.png)
     
 b. Durante determinado período de tempo, um cliente pode alugar várias fitas de vídeo da locadora BigVid. Cada fita de vídeo da BigVid pode ser alugada a vários clientes nesse período.
 
