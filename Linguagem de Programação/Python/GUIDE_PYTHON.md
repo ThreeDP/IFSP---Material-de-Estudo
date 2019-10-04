@@ -63,6 +63,42 @@
 
 **Operadores relacionais:**
 
+"<" Menor que
+      
+      n = 9
+      if n < 10:
+            print(n)
+     
+"<=" Menor ou igual que
+      
+      n = 9
+      if n <= 10:
+            print(n)
+            
+"==" Igual á
+      
+      n = 10
+      if n == 10:
+            print(n)
+
+">=" Maior ou igual que
+
+      n = 5
+      if n >= 5:
+            print(n)
+            
+">" Maior que 
+
+      n = 10
+      if n > 9:
+            print(n)
+            
+"!=" Não igual
+
+      n = 10
+      if n != 9:
+            print(n)
+       
 
 **Entrada de dados**
 
