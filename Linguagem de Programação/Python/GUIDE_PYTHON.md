@@ -126,6 +126,20 @@ Multiplas decisões
             
 > No caso acima o valor atribuido á astr não é um numero e por esse motivo não pode ser transformando em um inteiro, por esse motivo quando o comando é executado um traceback ocorre e o programa executa automaticamente a parte do except pulando no caso "print('there')", quando isso não ocorrer como por exemplo na atribuição de 1769 para astr o codigo dentro de try será exercutado enquando o codigo de except será ignorando.
 
+*Exemplo:*
+
+      rawstr = input('Enter a number:')
+      try:
+            ival = int(rawstr)
+      except:
+            ival = -1
+      
+      if ival > 0:
+            print('Nice work')
+      else:
+            print('Not a number')
+            
+            
 **Entrada de dados**
 
       nam = input('who are you?')
