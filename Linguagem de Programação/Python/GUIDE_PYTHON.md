@@ -98,7 +98,33 @@
       n = 10
       if n != 9:
             print(n)
-       
+
+**Condicionais**
+
+Multiplas decisões
+      
+      if x < 2:
+            print('Small')
+      elif x < 10:
+            print('Medium')
+      else:
+            print('Large')
+      print('All done!)
+      
+ Traceback
+      
+> Traceback são mensagens que são executadas quando uma ação não pode ser executada de form correta por algum motivo. Atraves do try e do except é possivel tratar quando essas ações forem realizadas, como por exemplo, a conversão da palavra bob para uma numero inteiro e sua atribuição a uma variavel.
+
+      astr = 'Bob'
+      try:
+            print('Hello')
+            istr = int(astr) # Nesse momento o programa irá pular para except
+            print('There')
+      except:
+            istr = -1
+      print('Done', istr) 
+            
+> No caso acima o valor atribuido á astr não é um numero e por esse motivo não pode ser transformando em um inteiro, por esse motivo quando o comando é executado um traceback ocorre e o programa executa automaticamente a parte do except pulando no caso "print('there')", quando isso não ocorrer como por exemplo na atribuição de 1769 para astr o codigo dentro de try será exercutado enquando o codigo de except será ignorando.
 
 **Entrada de dados**
 
