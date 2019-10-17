@@ -63,3 +63,4 @@
 ### 9.17.
 > Preencha as tabelas conforme necessário (como indica no exemplo de dados e formulários).
 
+{TABELA P6.1d}
