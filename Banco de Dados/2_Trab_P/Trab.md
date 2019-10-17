@@ -50,4 +50,16 @@
 > As horas que um funcionário trabalha são mantidas em um resgitro de trabalho que contém um registro das horas reais trabalhadas por funcionário em determinada designação. O registro de trabalho é um formulário semanal que o funcionário preenche no fim de cada semana (sexta-feira) ou no fim de cada mês. O formulário contém a data (de cada sexta-feira do mês ou do último dia de trabalho do mês, caso não caia em uma sexta-feira), a ID de designação, o total de horas trabalhadas na semana (ou até o término do mês) e o número da conta em que a entrada do registro de trabalho é cobrada. Obviamente, cada entrada pode se relacionar a apenas uma conta. Uma lista de exemplo das entradas do registro de trabalho para o projeto do primeiro exemplo é apresentada na Tabela P6.1d.
 
 ### 9.14.
-> 
+> Por fim, a cada 15 dias uma conta é emitida e enviada ao cliente, totalizando as horas trabalhadas no projeto nesse período. Quando a GBS gera uma conta, utiliza o número de conta para atualizar as entradas de registro de trabalho que fazem parte dessa conta, utiliza o número de conta para atualizar as entradas de registro de trabalho, e cada entrada pode estar relacionada a apenas um conta. A GCS enviou uma conta em 15/3/08 para o primeiro projeto (Xerox), com o total de horas trabalhadas entre 1º/3/08 e 15/3/08. Portanto, pode-se assumir com segurança que há apenas uma conta nessa tabela e que essa conta cobre as entradas do registro de trabalho apresentadas no formulário citado.
+
+**Sua tarefa é criar um banco de dados que cumpra as operações descritas nesse problema. As entidades mínimas necessárias são: funcionário, habilidade, cliente, região, projeto, programação de projeto, designação, registro de trabalho e conta. (Há entidades adicionais necessárias que não estão listadas.)**
+
+### 9.15.
+> Crie todas as tabelas e todos os relacionamentos necessários.
+
+### 9.16.
+> Crie os índices necessários para manter a integridade de entidade ao utilizar chaves primárias surrogates.
+
+### 9.17.
+> Preencha as tabelas conforme necessário (como indica no exemplo de dados e formulários).
+
