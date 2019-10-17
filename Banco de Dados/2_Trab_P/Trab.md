@@ -1,8 +1,9 @@
-9. A Global Computer Solutions (GCS) é uma empresa de consultoria em tecnologia da informação com diversos escritórios localizados por todos os Estados Unidos. O sucesso da empresa tem como base a capacidade de maximizar seus recursos - ou seja, combinar funcionários altamente capacitados com projetos de acordo com a região. Para melhor gerenciar seus projetos, a GCS entrou em contato com você para projetar um banco de dados, de modo que os gerentes da GBS possam rastrear seus clientes, funcionários, projetos, programações de projetos, designações e faturas.
+### 9. 
+> A Global Computer Solutions (GCS) é uma empresa de consultoria em tecnologia da informação com diversos escritórios localizados por todos os Estados Unidos. O sucesso da empresa tem como base a capacidade de maximizar seus recursos - ou seja, combinar funcionários altamente capacitados com projetos de acordo com a região. Para melhor gerenciar seus projetos, a GCS entrou em contato com você para projetar um banco de dados, de modo que os gerentes da GBS possam rastrear seus clientes, funcionários, projetos, programações de projetos, designações e faturas.
 
-9.0 banco de dados da GCS deve dar suporte a todas as necessidades de operações e informações da empresa. Segue uma descrição básica das principais entidades:
+**9.0.** banco de dados da GCS deve dar suporte a todas as necessidades de operações e informações da empresa. Segue uma descrição básica das principais entidades:
 
-9.1. Os funcionários que trabalham para a GBS possuem ID, sobrenome, inicial do meio, nome, região e data de contratação.
+**9.1.** Os funcionários que trabalham para a GBS possuem ID, sobrenome, inicial do meio, nome, região e data de contratação.
 
 9.2. As regiões válidas são as seguintes: Noroeste (NW), Sudeste (SW), Centro-Oeste/Norte (MN), Centro-Oeste/Sul (MS), Nordeste (NE) e Sudeste (SE).
 
