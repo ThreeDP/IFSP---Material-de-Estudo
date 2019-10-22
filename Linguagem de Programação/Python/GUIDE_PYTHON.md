@@ -138,8 +138,27 @@ Multiplas decisões
             print('Nice work')
       else:
             print('Not a number')
-            
-            
+
+### Loops e interações
+
+break
+> Sai do loop.
+
+Continue
+> Força continuar no loop.
+      
+      Exemplo:
+      while True: 
+            line = input('> ")
+                              # Em caso da primeira ser verdadeira força a                                       permanencia no  loop.
+            if line[0] == '#' :
+                  continue       
+            if line == 'done' :
+                  break
+            print(line)
+      print('Done!')
+      
+      
 **Entrada de dados**
 
       nam = input('who are you?')
