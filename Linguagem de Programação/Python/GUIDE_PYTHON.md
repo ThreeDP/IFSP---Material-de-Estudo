@@ -20,6 +20,29 @@
       assert      else        import        pass      break
       except      in          raise
 
+**Tipos de Variaveis**
+
+Bool
+
+String
+
+float
+
+int
+
+None
+
+      smallest = none
+      print('Before')
+      for value in [9, 41, 12, 3, 74, 15] :
+            if smallest is None :
+                  smallest = value
+            elif value < smallest :
+                  smallest = value
+            print(smallest, value)
+       print('After', smallest)
+       
+
 **Operadores Aritméticos:**
 
 "+" adição: Menos prioritário em expressões matemáticas
@@ -157,7 +180,9 @@ Continue
                   break
             print(line)
       print('Done!')
-      
+ 
+**Laço for**
+> 
       
 **Entrada de dados**
 
