@@ -1,0 +1,38 @@
+1. No entanto, não se deve desconsiderar que para o efetivo sucesso de todo processo envolvendo a
+tecnologia da informação e o sistema de informação, é fundamental a presença do fator humano. É
+ele que se utiliza dos benefícios dos sistemas e é para uso dele que o sistema deve ser desenvolvido
+e implementado.
+
+2. Para uma boa implementação de um sistema a cultura organizacional também terá que se adaptar as novas condições estabelecidas pelo sistema.
+
+3. A implantação pode representar para a organização a necessidade de adaptação em termos de espaço físico, processos técnicos e administrativos, estrutura organizacional (eliminação, fusão e criação de órgãos, alteração de níveis hieráquivos e estrutura de poder), filosofia de gestão e relacionamento entre os órgãos.
+
+4. Não adianta implantar algo novo se toda a opeção continuar da mesma forma.
+
+5. Insucesso na implantação:
+
+x As pessoas não querem que o novo sistema tenha sucesso;
+x As pessoas estão satisfeitas com o sistema existente e não acham necessária a implantação de um
+novo sistema;
+x As pessoas têm expectativas exageradas a respeito do novo sistema;
+x As pessoas não entendem os conceitos básicos do novo sistema;
+x A base de dados não é correta;
+x O sistema apresenta dificuldades técnicas.
+
+6. A reação dos colaboradores podem ser de agressão passando a colocar informações incorretas ou imcompletas para danificar sua operação, culpando o sistema por seus erros ou por não atingir melhores resultados, negando-se a fazer uso, negando informações que possam a desfavorecer ou até mesmo maquiano situações tanto positivas como negativas.
+
+7. Geralmente o menor nível hieráquico por medo de perder o emprego ou por causa das mudança em sua operação passam a ter uma reação de agressão.
+
+8. Em níveis superiores motivos como perda de poder, liberdade de ação e maior controle por parte das gerências superiores são o principal medo. A preocupação que com a implantação do sistema possa haver redução ou modificação dos envolvidos nesse nivel pode levar a reação de agressão e projeção.
+
+9. Minimizar o medo dos colaboradoes diante da redução de mão-de-obra é um fator primordial para uma boa implantação.
+
+10. O medo das pessoas diante do novo e o anseio de não possuirem as qualificações necessárias para as novas funções junto a falta de um treinamento adequando pode ser um forte fator contra a implatação do sistema de informação. Esses fatores podem ser minimizados com uma preparação adequada dos usuários. A democratização da informação pode levar a perda de poder e prestígio pois dificulda o monopolio de informação deixando algumas pessoas desconfortaveis.
+
+11. O comportamento positivo dos usuário é essencial para que qualquer sistema funcione em sua totalidade.
+
+12. No processo de informatização é necessário estabelecer objetivos caracterizados por melhorias amplas, radicalmente grandes e diferentes, que justifiquem o investimento.
+
+13. A grande dificuldade em uma implementação de um sistema da informação está em demorados processos de implantação pois toda a estrutura organizacional deve se adaptar a novas funcionalidades e toda a resistencia humana para as mesmas.
+
+14. 
