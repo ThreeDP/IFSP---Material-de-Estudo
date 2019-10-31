@@ -11,13 +11,13 @@ e implementado.
 
 5. Insucesso na implantação:
 
-x As pessoas não querem que o novo sistema tenha sucesso;
-x As pessoas estão satisfeitas com o sistema existente e não acham necessária a implantação de um
+- As pessoas não querem que o novo sistema tenha sucesso;
+- As pessoas estão satisfeitas com o sistema existente e não acham necessária a implantação de um
 novo sistema;
-x As pessoas têm expectativas exageradas a respeito do novo sistema;
-x As pessoas não entendem os conceitos básicos do novo sistema;
-x A base de dados não é correta;
-x O sistema apresenta dificuldades técnicas.
+- As pessoas têm expectativas exageradas a respeito do novo sistema;
+- As pessoas não entendem os conceitos básicos do novo sistema;
+- A base de dados não é correta;
+- O sistema apresenta dificuldades técnicas.
 
 6. A reação dos colaboradores podem ser de agressão passando a colocar informações incorretas ou imcompletas para danificar sua operação, culpando o sistema por seus erros ou por não atingir melhores resultados, negando-se a fazer uso, negando informações que possam a desfavorecer ou até mesmo maquiano situações tanto positivas como negativas.
 
