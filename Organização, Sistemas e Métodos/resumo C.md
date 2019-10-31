@@ -35,4 +35,16 @@ novo sistema;
 
 13. A grande dificuldade em uma implementação de um sistema da informação está em demorados processos de implantação pois toda a estrutura organizacional deve se adaptar a novas funcionalidades e toda a resistencia humana para as mesmas.
 
-14. 
+14. Existem vários motivos que ocasionam a resistência a mudança. Oliveira aponta os seguintes: A não percepção da necessidade de mudanças, a idade, a escolaridade, a falta de confiança nas pessoas que as estão empreendendo, os acontecimentos históricos que antecederam, a desconfiança de que as mudanças possam afetar as condições de subsistência, a contrariedade diante de imposições ditariais.
+
+15. As pessoas podem mudar por que são estimuladas ou coagidas para isso acomodando-se a mudança e sua rotina e reagirem negativamente as mudança em um comportamento de defesa.
+
+16. O usuário será resistente se ele não enxergar como essas mudança podem ser boas para ele em um futuro proximo.
+
+17. As pessoas podem se comportar positivamente a mudança ajudando em uma postura pró-ativa de não apenas aceitação como tbm de fazer acontecer ou de forma negativa.
+
+18. figura 1
+
+19. Vencer a resistência a mudança é o maior desafio em um implantação de sistema de informação
+
+20. No estudo de caso fatores como idade do usuários (20 a 40 anos de idade), comportamento da empresa em relação aos usuários, grau de escolaridade e engajamento dos usuários no processo foram primodiais para o sucesso da implantação. O medo dos usuários de perderem seus empregos foram tratados pela empresa e em contrario a citação de Almeida (2003), de que mudanças tecnológicas geram desemprego estrutural, houve contratações. Como ja falado a postura da organização ao realizar a implantação do sistema foi de extrema inteligência, os cargos de liderança estiveram completamente envolvidos com o processo e comprometidos em sua implantação, a comunicação dos motivos da mudança e quais eram as metas a serem alcançadas foi bem aplicada evitando ruido e distoções dos propositos isso fez com que e medo do novo e da incapacidade de exercer novas atividades fosse minimizadas e o insentivo ao usuário foi grande.
