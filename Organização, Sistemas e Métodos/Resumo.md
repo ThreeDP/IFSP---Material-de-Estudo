@@ -1,1 +1,8 @@
-A implantação de Sistemas em uma empresas traz muitos desafios e dificuldades e 
+A implantação de Sistemas em uma empresas traz muitos desafios e dificuldades e para que esse processo ocorra bem é fundamental a presença do fator humano. É ele que se ultiliza dos benefícios dos sistemas e é para o uso dele que o sistema deve ser desenvolvido e implementado e para que um boa implantação ocorra é fundamental que os usuários esteja adptos a mudanças na cultura organizacional para se adquar ao novo sistema de informação.
+
+Para uma organização esse processo de implantação pode representar a necessidade de adaptação em termos de epaço físico, processos técnicos, administrativos estrutura organizacional entre outros porém sempre será para que ocorra uma minimização dos custo, maximização dos lucros ou melhor expanção.
+
+A reação dos colaboradores em relação ao sistema podem ser um fator primario para o insucesso na implantação de um sistema de informação. Atos como agressão ao sistema, quando o usuário passa a inserir informações imcompletas ou incorretas para danificar sua operação, projeção, quando a o sistema passa a ser culpado por erros ou por não atingir melhores resultados, recusa em utilizar, negação de informações que possam parecer desfavoraveis ou mesmo dolorosa para ela ou a manipulação do que sabemos a respeito de um fato para que pareça sempre mais do que é realmente real, tanto para fatos positivos quanto negativos, são os mais comuns de serem enxergados nos meios porém dão destaque a agressão, normalmente é uma atitude tomada pelo menor nível hierárquico por medo de incapacidade e da perda de seu emprego, e projeção que pode afetar nivél superiores na hieraquia, motivos como perda de poder, liberdade de ação e maior controle por parte das gerências superiores são o principal medo, nesse nível é bem comum também assumirem uma postura de agrassão.
+
+
+
