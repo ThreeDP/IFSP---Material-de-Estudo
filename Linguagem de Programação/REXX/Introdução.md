@@ -33,10 +33,12 @@
 - Subtração com prefix (Igual a subtração)
 
       Prefix -
+      ex: 0 - number
 
 - Adição com Prefix (igual a adição)
 
       Prefix +
+      ex: 0 + number
       
 
       
