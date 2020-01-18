@@ -8,3 +8,9 @@
 - [Código para execução da classe declarada](https://github.com/ThreeDP/IFSP---Material-de-Estudo/blob/master/Linguagem%20de%20Programação/C%20Plus%20Plus/PROGRAMAS/CLASSES/RUNCLASSE_01.cpp)      
 ___________________________________________________________
 
+        & # Retorna o endereço da variavel.
+        
+        # Um exemplo seria a definição de um ponteiro:
+        Pointer = &int # Nesse caso estou alocando o endereço de int em pointer.
+        
+___________________________________________________________
