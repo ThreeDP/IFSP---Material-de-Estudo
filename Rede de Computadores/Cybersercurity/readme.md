@@ -16,3 +16,5 @@
 **4. Exploit:**
 > É uma maneira de violar a segurança de um sistemas através de uma vunerabilidade.
 
+### Posições Comuns em Cybersecurity:
+
