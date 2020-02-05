@@ -3,7 +3,6 @@
 
 
 
-
 ### Siglas e termos comuns
 
 **1. Bucket:**
