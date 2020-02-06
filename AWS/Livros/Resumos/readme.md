@@ -1,6 +1,8 @@
 # Amazon S3
 > Amazon Simple Storage Service
 
+### Gerenciando operações com AWS SDK
+
 
 
 ### Siglas e termos comuns
@@ -13,6 +15,8 @@
 
 **3. Metadados:**
 > São dados de um arquivo, como por exemplo, o seu nome, tamanho e tipo.
+
+
 
 # EC2
 
