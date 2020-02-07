@@ -1,6 +1,5 @@
 # Empreendedorismo
-
-1. Processo de criar algo diferente e com valor.
+> Processo de criar algo diferente e com valor.
 
 **tipos de empreendedor:**
 
