@@ -1,7 +1,7 @@
 # Empreendedorismo
 > Processo de criar algo diferente e com valor.
 
-**tipos de empreendedor:**
+**TIPOS DE EMPREENDEDOR**
 
 1. O empreendedor de risco:
 > Com ideias resolve problemas.
