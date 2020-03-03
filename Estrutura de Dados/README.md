@@ -20,7 +20,14 @@
     2	      |  Understanding the C++ Memory Model
     3	      |  Developing C++ Classes
     4	      |  Engineering C++ Software Solutions
-    
+
+# Obter Ajuda
+
+**Encontrar informações sobre erros**
+> https://learner.coursera.help/hc/en-us
+
+**Forum**
+> https://www.coursera.org/learn/cs-fundamentals-1/discussions
 
 # Referencias
 
