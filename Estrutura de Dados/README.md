@@ -15,7 +15,7 @@
 
 # Course Outline
 
-    Week	  |  Topics
+    Week	      |  Topics
     1	      |  Orientation; Writing a C++ Program
     2	      |  Understanding the C++ Memory Model
     3	      |  Developing C++ Classes
