@@ -12,3 +12,11 @@
 - Understand the C++ memory model, including its use of pointers and how memory is allocated and deallocated. 
 - Implement abstract data structures as C++ classes using constructors, destructors, member functions and operators. 
 - Engineer C++ software solutions using class hierarchies and templates.
+
+# Course Outline
+
+    Week	  |  Topics
+    1	      |  Orientation; Writing a C++ Program
+    2	      |  Understanding the C++ Memory Model
+    3	      |  Developing C++ Classes
+    4	      |  Engineering C++ Software Solutions
