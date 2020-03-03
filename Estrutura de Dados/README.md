@@ -20,3 +20,17 @@
     2	      |  Understanding the C++ Memory Model
     3	      |  Developing C++ Classes
     4	      |  Engineering C++ Software Solutions
+    
+
+# Referencias
+
+**C++**
+> http://www.cplusplus.com/
+
+**C++ referencias**
+> https://en.cppreference.com/w/
+
+# Week 1
+
+**v.**
+> O que é?
