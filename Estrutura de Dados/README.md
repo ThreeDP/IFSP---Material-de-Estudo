@@ -4,3 +4,11 @@
   https://www.bigocheatsheet.com/
   
 1. classes de comportamentos assintótico
+
+# Course Goals and Objectives
+> Upon successful completion of this course sequence, you will be able to:
+
+- Write a C++ program, including setting up an interactive development environment, debugging and linking to libraries of helpful pre-existing routines.
+- Understand the C++ memory model, including its use of pointers and how memory is allocated and deallocated. 
+- Implement abstract data structures as C++ classes using constructors, destructors, member functions and operators. 
+- Engineer C++ software solutions using class hierarchies and templates.
