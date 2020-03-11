@@ -629,7 +629,6 @@ apt install npm
 npm i -g @zowe/cli@latest --ignore-scripts
 zowe profiles create zosmf-profile --help
 clear
-zowe profiles create zosmf-profile zowe-tutorial --host 192.86.32.67 --port 443 --user z53907 --password xErife
 zowe zosmf check status
 apt search vs
 ls
