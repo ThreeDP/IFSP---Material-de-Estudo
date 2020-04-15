@@ -1,16 +1,14 @@
-threedp@debian:~$ cd  /
-threedp@debian:/$ rm teste.txt
-rm: cannot remove 'teste.txt': No such file or directory
-threedp@debian:/$ 
-threedp@debian:/$ 
-threedp@debian:/$ 
-threedp@debian:/$ mkdir tt
-mkdir: cannot create directory ‘tt’: Permission denied
-threedp@debian:/$ ls
-bin   home            lib32       media  root  sys  vmlinuz
-boot  initrd.img      lib64       mnt    run   tmp  vmlinuz.old
-dev   initrd.img.old  libx32      opt    sbin  usr
-etc   lib             lost+found  proc   srv   var
+# Comandos Mais usados
+
+    cd  /
+> abre o diretorio raiz
+
+    mkdir nome_diretorio
+> Cria um diretorio
+
+    rmdir
+> Exclui o diretorio
+
 threedp@debian:/$ cd home
 threedp@debian:/home$ su -
 Password: 
