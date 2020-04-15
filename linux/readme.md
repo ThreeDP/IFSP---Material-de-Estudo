@@ -1,4 +1,5 @@
 # Comandos Mais usados
+### Manipulação em diretorios
 
     cd  /
 > Abre o diretorio raiz
@@ -8,6 +9,9 @@
 
     rmdir
 > Exclui o diretorio
+
+    rm --help
+> Busca o dicionario de comandos rm.
 
     touch nome.txt // Exemplo.
 > Cria um arquivo com a extenção desejada
@@ -25,75 +29,19 @@
 > Trás mais detalhes dos arquivos da pasta.
 
     pwd
-> Mostra o nome do diretorio atual
+> Mostra o nome do caminho de diretorio atual
 
-total 0
-root@debian:/tmp/ifsp# touch arq1.txt
-root@debian:/tmp/ifsp# touch arq2.txt
-root@debian:/tmp/ifsp# touch arq3.txt
-root@debian:/tmp/ifsp# ls -l
-total 0
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
-root@debian:/tmp/ifsp# mkdir diretorio1
-root@debian:/tmp/ifsp# mkdir diretorio2
-root@debian:/tmp/ifsp# mkdir diretorio3
-root@debian:/tmp/ifsp# touch diretorio1/aula3.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# touch /tmp/ifsp/diretorio1/aula4.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l diretorio1
-total 0
--rw-r--r-- 1 root root 0 Mar 11 19:58 aula3.txt
--rw-r--r-- 1 root root 0 Mar 11 19:58 aula4.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# rmdir diretorio1/
-rmdir: failed to remove 'diretorio1/': Directory not empty
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# rm -r diretorio1/
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# rm -rf diretorio1/
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls
-arq1.txt  arq2.txt  arq3.txt  diretorio2  diretorio3
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# touch arql.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq[1-z]*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
+# Utilidades
+### Para manipular diretorios e arquivos
+
+**Para listar arquivos:**
+
+    ls -l arq*
+> Lista todos os arquivos que comecem com arq como no exemplo e tenha qualquer coisa no restante.
+
+    ls -l arq[1-b]*
+> Lista todos os arquivos que comecem com arq tenha qualquer letra ou numero de 1 á b e completem com qualquer outra coisa.
+
 root@debian:/tmp/ifsp# 
 root@debian:/tmp/ifsp# 
 root@debian:/tmp/ifsp# 
