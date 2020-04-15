@@ -65,33 +65,6 @@
     cat /root/.bash_history
 > Pega e visualiza o historico de comandos usados no terminal.
 
-
-
-
-root@debian:/tmp/ifsp# unset history file
-root@debian:/tmp/ifsp# set AA = blablabla
-root@debian:/tmp/ifsp# echo $AA
-
-root@debian:/tmp/ifsp# unset history.file
--bash: unset: `history.file': not a valid identifier
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# echo hystory
-hystory
-root@debian:/tmp/ifsp# echo $hystory
-
-root@debian:/tmp/ifsp# echo $history
-
-root@debian:/tmp/ifsp# echo $history.file
-.file
-root@debian:/tmp/ifsp# cat /root/.bash_history
--su
-su
-exit
-exit
 sudo apt-get install x3270
 ls
 ls
