@@ -1,4 +1,9 @@
 # Comandos Mais usados
+### Gerenciamento de pacotes
+
+    apt show nome_pacote
+> Mostra detalhes do pacote escolhido.
+
 ### Manipulação em diretorios
 
     cd  /
@@ -42,86 +47,27 @@
     ls -l arq[1-b]*
 > Lista todos os arquivos que comecem com arq tenha qualquer letra ou numero de 1 á b e completem com qualquer outra coisa.
 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq[1-4]*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*.t*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# touch arq4.tx
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# touch arq4.xt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*.t*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:09 arq4.tx
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# ls -l arq*.t*
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:09 arq4.tx
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*.*x
--rw-r--r-- 1 root root 0 Mar 11 20:09 arq4.tx
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*.?x?
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# ls -l arq*.*x?
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq1.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq2.txt
--rw-r--r-- 1 root root 0 Mar 11 19:57 arq3.txt
--rw-r--r-- 1 root root 0 Mar 11 20:09 arq4.xt
--rw-r--r-- 1 root root 0 Mar 11 20:07 arql.txt
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# rm -rf arq*   ####
-root@debian:/tmp/ifsp# ls -la
-total 16
-drwxr-xr-x  4 root root 4096 Mar 11 20:12 .
-drwxrwxrwt 17 root root 4096 Mar 11 19:42 ..
-drwxr-xr-x  2 root root 4096 Mar 11 19:57 diretorio2
-drwxr-xr-x  2 root root 4096 Mar 11 19:57 diretorio3
-root@debian:/tmp/ifsp# rm -rf arq *
-root@debian:/tmp/ifsp# ls -la
-total 8
-drwxr-xr-x  2 root root 4096 Mar 11 20:13 .
-drwxrwxrwt 17 root root 4096 Mar 11 19:42 ..
-root@debian:/tmp/ifsp# ]
--bash: ]: command not found
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
-root@debian:/tmp/ifsp# 
+    ls -l arq*.t*
+> Lista todos os arquivos que comecem com arq e termine com qualquer coisa e que a extenção comece com t e termine com qualquer coisa.
+ 
+    ls -l arq*.?x?
+> Lista todos os arquivos que comecem com arq e termine com qualquer coisa e que a extenção tenha 1 caracter depois venha x depois qualquer caracter. Cada interogação representa um caracter de qualque tipo se houvesse ??x? a extenção seria dois caracteres de qualquer tipo no inicio e no final o caracter de qualquer tipo.
+ 
+    rm -rf arq*
+> Remove todos os arquivos que se inicie com arq.
+
+    rm -rf arq *
+> remove todos os arquivos que se inicie com arq e todos os arquivos da pasta.
+
+    unset history.file
+> Desabilita o historio de comandos do terminal.
+
+    cat /root/.bash_history
+> Pega e visualiza o historico de comandos usados no terminal.
+
+
+
+
 root@debian:/tmp/ifsp# unset history file
 root@debian:/tmp/ifsp# set AA = blablabla
 root@debian:/tmp/ifsp# echo $AA
